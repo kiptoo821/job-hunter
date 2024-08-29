@@ -44,7 +44,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/job-hunter.git
+   git clone https://github.com/kiptoo821/job-hunter.git
    cd job-hunter
    ```
 
