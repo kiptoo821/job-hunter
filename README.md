@@ -1,20 +1,18 @@
----
-
 # Job Hunter - Web Scraping Desktop Application
 
 ## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Code Structure](#code-structure)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Important Notes](#important-notes)
-- [Disclaimer](#disclaimer)
+[Project Overview](#project-overview)
+[Features](#features)
+[Technologies Used](#technologies-used)
+[Installation](#installation)
+[Usage](#usage)
+[Code Structure](#code-structure)
+[Customization](#customization)
+[Contributing](#contributing)
+[License](#license)
+[Acknowledgements](#acknowledgements)
+[Important Notes](#important-notes)
+[Disclaimer](#disclaimer)
 
 ## Project Overview
 
@@ -132,4 +130,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Disclaimer
 
 This script is provided for educational purposes and personal use. Be mindful of the legality and ethical considerations when scraping websites, and always respect the terms of service of the website you are scraping.
----
+
